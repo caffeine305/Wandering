@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Sensores.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Actuadores.cs" Line="24" Column="2" />
+      <File FileName="Assets\Scripts\Sensores.cs" Line="13" Column="2" />
+      <File FileName="Assets\Scripts\Comportamientos.cs" Line="44" Column="41" />
+      <File FileName="..\..\Roll a Ball\Assets\Scripts\Playercontroler.cs" Line="16" Column="40" />
+      <File FileName="Assets\Scripts\Movement.cs" Line="21" Column="95" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
